@@ -13,7 +13,7 @@ We foloww the links provided by PoseFormer, GLA-GCN, and P-STMO
 
 ### Human3.6m: 
 
-[https://drive.google.com/file/d/1ayw5DI-CwD4XGtAu69bmbKVOteDFJhH5/view](CPN)
+[CPN](https://drive.google.com/file/d/1ayw5DI-CwD4XGtAu69bmbKVOteDFJhH5/view)
 ### HumanEva-I:
 ### MPI-INF-3DHP:
 
