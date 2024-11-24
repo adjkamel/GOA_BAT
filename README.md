@@ -11,7 +11,7 @@ Attention and Temporal Body Aware Transformer
 ## Datasets
 We foloww the links provided by PoseFormer, GLA-GCN, and P-STMO
 
-### Human3.6m: [https://rose1.ntu.edu.sg/dataset/actionRecognition/](https://drive.google.com/file/d/1ayw5DI-CwD4XGtAu69bmbKVOteDFJhH5/view](CPN)
+### Human3.6m: [https://drive.google.com/file/d/1ayw5DI-CwD4XGtAu69bmbKVOteDFJhH5/view](CPN)
 ### HumanEva-I:
 ### MPI-INF-3DHP:
 
