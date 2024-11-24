@@ -18,9 +18,7 @@ Please put them in folder ./data to reproduce the results.
 
 ## Evaluating pre-trained models
 
-We provide the pre-trained models using CPN and GT 2D data, which can be found in the ./checkpoint directory. To evaluate, pleasae run:
-
-[models](https://drive.google.com/drive/folders/1Lkjr95nv3gDCsLlVcgwfmYZxRDrbLI1p?usp=drive_link)
+We provide the pre-trained [models](https://drive.google.com/drive/folders/1Lkjr95nv3gDCsLlVcgwfmYZxRDrbLI1p?usp=drive_link) using CPN and GT 2D data, please put them in ./checkpoint directory. To evaluate, pleasae run:
 
 ### Human3.6M
 ```
