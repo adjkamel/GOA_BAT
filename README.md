@@ -21,9 +21,11 @@ Please put them in folder ./data to reproduce the results.
 We provide the pre-trained [models](https://drive.google.com/drive/folders/1Lkjr95nv3gDCsLlVcgwfmYZxRDrbLI1p?usp=drive_link) using CPN and GT 2D data, please put them in ./checkpoint directory. To evaluate, pleasae run:
 
 ### Human3.6M
+- On ground truth 2D
 ```
 main_h36m.py -k gt -f 324 --evaluate h36m_gt_best.bin
 ```
+-On CPN 2D
 ```
 python main_h36m.py -k cpn_ft_h36m_dbb -f 324 --evaluate h36m_cpn_best.bin
 ```
@@ -39,9 +41,11 @@ python main_3dhp.py -f 81 -frame-kept 9 -coeff-kept 9 --reload 1 --previous_dir 
 ## Training new models
 
 ### Human3.6M
+-On ground truth 2D
 ```
 python main_h36m.py -k gt -f 324 -lr 0.0003 -lrd 0.95
 ```
+-On CPN 2D
 ```
 python main_h36m.py -k cpn_ft_h36m_dbb -f 324 -lr 0.0003 -lrd 0.95
 ```
